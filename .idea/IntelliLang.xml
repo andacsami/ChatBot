@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="file-reference" injector-id="java">
+      <display-name>AssetManager.list (android.content.res)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String").definedInClass("android.content.res.AssetManager"))]]></place>
+    </injection>
+  </component>
+</project>
